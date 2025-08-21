@@ -6,7 +6,7 @@ import { NavigationDropdown } from "./components/NavigationDropdown";
 import { ExamSchedule } from "./components/ExamSchedule";
 import { NewsPage } from "./components/NewsPage";
 import { DonationSection } from "./components/DonationSection";
-import { SearchSection } from "./components/SearchSection";
+import SearchSection from "./components/SearchSection";
 import ResultCard from "./components/ResultCard";
 import { StatsSection } from "./components/StatsSection";
 import { AllResultsSection } from "./components/AllResultsSection";
